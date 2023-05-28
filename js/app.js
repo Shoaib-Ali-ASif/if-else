@@ -9,7 +9,6 @@ if(numOne == numTwo){
 
 // Check from the given integer, whether it is positive or negative. 
 let one = 1;
-let two = -2;
 if(one >= 0){
     console.log('postive')
 }else{
